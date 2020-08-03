@@ -4,3 +4,6 @@ class Tree{
     this.species=species;
   }
 }
+class Deciduous extends Tree{
+  
+}
